@@ -15,8 +15,7 @@ provider "hcp" {}
 // Use the cloud provider GCP to provision resources that will be connected to HCP
 
 // Use the cloud provider AWS to provision resources that will be connected to HCP
-provider "aws" {
-}
+
 
 provider "google" {
 }
